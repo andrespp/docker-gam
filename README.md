@@ -1,6 +1,8 @@
 docker-gam
 ==========
 
+[![Docker Image CI](https://github.com/andrespp/docker-gam/actions/workflows/docker-image.yml/badge.svg)](https://github.com/andrespp/docker-gam/actions/workflows/docker-image.yml)
+
 Docker image for [GAM](https://github.com/GAM-team/GAM), a **command line tool
 for Google Workspace admins** to manage domain and user settings quickly and
 easily.
